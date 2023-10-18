@@ -36,20 +36,20 @@ python入门学习
      必应： https://www.bing.com/?mkt=zh-CN
 
 ## Pandas
-版本：
+- 版本：
 pandas目前最新版本2.1.1，支持的python版本是 Python 3.9, 3.10 和 3.11.
 可以在如下的pandas官网上找到对应的版本关系：
 https://pandas.pydata.org/docs/getting_started/install.html
 
-pandas支持的数据格式：
-- CSV and text files
-- Microsoft Excel
--  SQL databases
--  fast HDF5 format   
-官网参考链接：   
-https://pandas.pydata.org/about/index.html
+- pandas支持的数据格式：
+  - CSV and text files
+  - Microsoft Excel
+  -  SQL databases
+  -  fast HDF5 format   
+  官网参考链接：   
+  https://pandas.pydata.org/about/index.html
 
-学习pandas：
-参考官网的十分钟入门文档：
+- 学习pandas：
+参考官网的十分钟入门文档：  
 <img src="pandas.png" alt="AI Logo" width="500">
 https://pandas.pydata.org/docs/user_guide/10min.html
