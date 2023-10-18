@@ -25,6 +25,8 @@ python入门学习
   2. 问答网站：
      https://stackoverflow.com/
   3. 搜索引擎
+     百度
+     必应： https://www.bing.com/?mkt=zh-CN
   
      
 
