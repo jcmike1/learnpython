@@ -1,7 +1,7 @@
 # learnpython
 python入门学习
 
-## 安装Pythong 和 pandas
+## 安装Python 和 pandas
 - 下载并安装 Python（为兼容性考虑，下载老一点的版本，例如3.10）  
   在 Python 官网下载页面 (https://www.python.org/downloads/windows/) 上下载适用于 Windows 的 Python 安装包 （ Windows installer (64-bit) ），然后双击运行安装程序。在安装期间，请确保选中 "Add Python to PATH" 选项。
 - 安装 pandas  
