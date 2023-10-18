@@ -7,7 +7,7 @@ python入门学习
 - 安装 pandas。
   打开命令行，输入以下命令：
   `pip install pandas`  
-- 验证 pythong 和 pandas 是否正确安装。在命令行中输入以下命令：
+- 验证 python 和 pandas 是否正确安装。在命令行中输入以下命令：
   `import pandas as pd  
   pd.__version__`  
 如果成功输出 pandas 版本号，则说明python 和 pandas 已经正确安装。
