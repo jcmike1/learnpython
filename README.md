@@ -51,5 +51,5 @@ https://pandas.pydata.org/docs/getting_started/install.html
 
 - 学习pandas：
 参考官网的十分钟入门文档：  
-<img src="pandas.png" alt="AI Logo" width="400">
+<img src="pandas.png" alt="AI Logo" width="300">
 https://pandas.pydata.org/docs/user_guide/10min.html
