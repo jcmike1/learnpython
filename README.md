@@ -23,14 +23,14 @@ python入门学习
     
 - 学习网站： https://www.learnpython.org/en/
   在这个学习网站上，依次点击Learn the Basics下面的所有知识点学习基础知识。 然后学习Data Science Tutorials下面的进阶知识。
-  <img src="learn.png" alt="AI Logo" width="300">
+  <img src="learn.png" alt="AI Logo" width="600">
   
 - 学习过程中遇到问题的自助解答：
   1. AI: 打开baidu官网， https://www.baidu.com ， 点击右上角的AI, 向AI提出问题
-     ![AI Logo](/ai.png "AI Logo")
-  2. 问答网站：
+     <img src="ai.png" alt="AI Logo" width="800">
+  3. 问答网站：
      https://stackoverflow.com/
-  3. 搜索引擎
+  4. 搜索引擎
      百度   
      必应： https://www.bing.com/?mkt=zh-CN
 
