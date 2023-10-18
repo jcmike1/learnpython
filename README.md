@@ -15,6 +15,12 @@ python入门学习
 
 ## Python
 - 官网： https://www.python.org/
+- 关于python：
+  由荷兰人Guido van Rossum于1989年发明
+  python是开源语言，遵循GPL(GNU General Public License)协议
+  python是一种解释型语言 
+  python使用4个空格作为逻辑块的区分
+    
 - 学习网站： https://www.learnpython.org/en/
   在这个学习网站上，依次点击Learn the Basics下面的所有知识点学习基础知识。 然后学习Data Science Tutorials下面的进阶知识。
   ![AI Logo](/learn.png "learn python")
@@ -25,11 +31,8 @@ python入门学习
   2. 问答网站：
      https://stackoverflow.com/
   3. 搜索引擎
-     百度
+     百度   
      必应： https://www.bing.com/?mkt=zh-CN
-  
-     
-
 
 ## Pandas
 版本：
