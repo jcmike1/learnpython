@@ -48,3 +48,8 @@ pandas支持的数据格式：
 -  fast HDF5 format   
 官网参考链接：   
 https://pandas.pydata.org/about/index.html
+
+学习pandas：
+参考官网的十分钟入门文档：
+<img src="pandas.png" alt="AI Logo" width="500">
+https://pandas.pydata.org/docs/user_guide/10min.html
