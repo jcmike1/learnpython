@@ -1,18 +1,18 @@
 # learnpython
 python入门学习
 
-##安装Pythong 和 pandas
+## 安装Pythong 和 pandas
 - 下载并安装 Python（为兼容性考虑，可以选择下载老一点的版本，例如3.10）。
   在 Python 官网下载页面 (https://www.python.org/downloads/windows/) 上下载适用于 Windows 的 Python 安装包 （ Windows installer (64-bit) ），然后双击运行安装程序。在安装期间，请确保选中 "Add Python to PATH" 选项。
 - 安装 pandas。
   打开命令行，输入以下命令：
-  pip install pandas
+  `pip install pandas`  
 - 验证 pythong 和 pandas 是否正确安装。在命令行中输入以下命令：
-  import pandas as pd
-  pd.__version__
+  `import pandas as pd
+  pd.__version__`  
 如果成功输出 pandas 版本号，则说明python 和 pandas 已经正确安装。
 
-##Python
+## Python
 - 官网： https://www.python.org/
 - 学习网站： https://www.learnpython.org/en/
   在这个学习网站上，依次点击Learn the Basics下面的所有知识点学习基础知识。 然后学习Data Science Tutorials下面的进阶知识。
